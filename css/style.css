@@ -1,0 +1,32 @@
+body {
+	background-color: #347B98;	
+}
+
+.center {
+	text-align: center;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+h1 {
+	font-size: 40px;
+	margin: 30px;
+}
+
+a.white {
+	color:#FFF;
+}
+
+.random {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.list {
+	background-color: #D4EDF7;
+	font-color: #fff
+}
+
+.extra-padding {
+	padding: 10px;
+}
